@@ -1,9 +1,9 @@
 ## Bem-vindo(a) ao perfil do MatheusMorii 😁
 
  <div>
-   <a href="https://github.com/matheus-morii">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheus-morii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-morii&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/Matheus-Morii">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus-Morii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Morii&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
